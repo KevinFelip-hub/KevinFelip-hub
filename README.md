@@ -25,8 +25,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=KevinFelip-hub&show_icons=true&theme=vision-friendly-dark" alt="KevinFelip-hub' stats"/>
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFelip-hub&layout=compact&theme=vision-friendly-dark" alt="KevinFelip-hub' most languages"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api?username=KevinFelip-hub&show_icons=true&theme=vision-friendly-dark" alt="KevinFelip-hub' stats"/>
+<img width="520em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFelip-hub&layout=compact&theme=vision-friendly-dark" alt="KevinFelip-hub' most languages"/>
 </p>
 
 <br>
