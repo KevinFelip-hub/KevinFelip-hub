@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [StarApp](https://github.com/starapp-sistemas)
 
-- 💬 Ask me about **HTML, CSS, SQL, JavaScript, React, Node.JS**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.JS, SQL**
 
 <br>
 
@@ -25,8 +25,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=KevinFelip-hub&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFelip-hub&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=KevinFelip-hub&show_icons=true&theme=vision-friendly-dark" alt="KevinFelip-hub' stats"/>
+<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFelip-hub&layout=compact&theme=vision-friendly-dark" alt="KevinFelip-hub' most languages"/>
 </p>
 
 <br>
