@@ -2,7 +2,7 @@
 
 - 👨‍💻 Júnior Mobile Developer
 
-- 🔭 I’m currently working at []()
+- 🔭 I’m currently not working, but contacto-me for to job project and more! 
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.JS, SQL**
 
