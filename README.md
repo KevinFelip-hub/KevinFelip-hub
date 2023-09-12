@@ -6,7 +6,7 @@
   </p>
 </div>
 
-<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/KevinFelip-hub/d392d69d9fc2d286c51bcbf9b45ebd9e/raw/4481ff8d2441c75764e1df1cdba23c64affca04f/githubcard.svg" />
+<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/KevinFelip-hub/932887c9480fc23ecdeb55efc4f7413b/raw/3247f2972513dc018a77ae963245a4a0cfd4ee65/cardprofile.svg" />
 
 **Currently working with:**
 <!-- Mobile / Front-End / Back-End / Editor -->
