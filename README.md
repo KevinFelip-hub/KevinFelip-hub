@@ -8,9 +8,6 @@
 
 <img align="right" height="520em" src="https://raw.githubusercontent.com/gist/KevinFelip-hub/932887c9480fc23ecdeb55efc4f7413b/raw/3247f2972513dc018a77ae963245a4a0cfd4ee65/cardprofile.svg" />
 
-
-![Screenshot_1]()
-
 **Currently working with:**
 <!-- Mobile / Front-End / Back-End / Editor -->
 
