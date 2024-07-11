@@ -83,5 +83,5 @@
 **GitHub Analytics:**
 <div align-items ="flex">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=KevinFelip-hub&show_icons=true&theme=vision-friendly-dark" alt="KevinFelip-hub' stats"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFelip-hub&layout=compact&theme=vision-friendly-dark" alt="KevinFelip-hub' stats">
+  <!--<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFelip-hub&layout=compact&theme=vision-friendly-dark" alt="KevinFelip-hub' stats"> -->
 </div>
